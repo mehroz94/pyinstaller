@@ -1,0 +1,9 @@
+sectionproperties
+pint
+ezdxf
+jinja2
+pypdf2
+ttkthemes
+xhtml2pdf
+#pywin32
+pyinstaller
